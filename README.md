@@ -1,4 +1,5 @@
 🎯 HACKATHON_JCIA_CLASSIFICATION_DE_PRUNE
+
 Pipeline complète de classification d'images de prunes africaines avec application desktop
 Ce dépôt contient une solution end-to-end pour la classification automatique de prunes africaines, depuis le prétraitement des images jusqu'au déploiement dans une application desktop intuitive (via Custom Tkinter). Le projet a été développé lors du hackathon JCIA et s'appuie sur une architecture robuste de Machine Learning et Deep Learning.
 
