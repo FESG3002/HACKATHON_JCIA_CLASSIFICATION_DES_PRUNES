@@ -1,6 +1,6 @@
 Voici une version optimisée pour un README GitHub, intégrant tous les éléments demandés avec une mise en forme professionnelle :
 
-```markdown
+
 ## 📊 African Plums Classification System
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
@@ -57,7 +57,7 @@ python train.py --epochs 50 --batch_size 32
 
 # Mode interface
 python PlumClassifier_Interface.py
-```
+
 
 ## 📊 Performance
 | Métrique       | Global Model | Defect Model |
