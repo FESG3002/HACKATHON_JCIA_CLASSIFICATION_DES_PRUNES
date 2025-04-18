@@ -17,7 +17,7 @@ Voici une version optimisée pour un README GitHub, intégrant tous les élémen
 - 📊 **Rapports détaillés** : métriques, courbes d'apprentissage
 - 🚀 **Prédiction en temps réel**
 
-## 📊 Choix Techniques
+**## 📊 Choix Techniques**
 
 ### Modèles Retenus
 | Modèle        | Architecture       | Justification                                                                 |
@@ -35,7 +35,7 @@ Voici une version optimisée pour un README GitHub, intégrant tous les élémen
 
 
 
-## 🔧 Installation
+## 📊 Installation
 ```bash
 # 1. Cloner le dépôt
 git clone https://github.com/HACKATHON_JCIA_CLASSIFICATION_DES_PRUNES/african-plums-classifier.git
