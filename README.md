@@ -1,7 +1,7 @@
 Voici une version optimisée pour un README GitHub, intégrant tous les éléments demandés avec une mise en forme professionnelle :
 
 ```markdown
-# 🍑 African Plums Classification System
+## 📊 African Plums Classification System
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)
@@ -17,7 +17,7 @@ Voici une version optimisée pour un README GitHub, intégrant tous les élémen
 - 📊 **Rapports détaillés** : métriques, courbes d'apprentissage
 - 🚀 **Prédiction en temps réel**
 
-## 🧠 Choix Techniques
+## 📊 Choix Techniques
 
 ### Modèles Retenus
 | Modèle        | Architecture       | Justification                                                                 |
