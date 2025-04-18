@@ -40,13 +40,16 @@ Voici une version optimisée pour un README GitHub, intégrant tous les élémen
 # 1. Cloner le dépôt
 git clone https://github.com/HACKATHON_JCIA_CLASSIFICATION_DES_PRUNES/african-plums-classifier.git
 cd african-plums-classifier
+```
 
 # 2. Créer l'environnement
+```bash
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 .\venv\Scripts\activate  # Windows
-
+```
 # 3. Installer les dépendances
+```bash
 pip install -r requirements.txt
 ```
 
@@ -54,7 +57,7 @@ pip install -r requirements.txt
 ```bash
 # Mode entraînement
 python train.py --epochs 50 --batch_size 32
-
+```
 # Mode interface
 python PlumClassifier_Interface.py
 
